@@ -1,4 +1,4 @@
-# Wallmart's e-commerce
+# Walmart's e-commerce
 
 OBJECTIVE :
 To gain insights into the performance of the store and identify opportunities for improvement; identification of patterns in the data in terms of customer segments, product categories, sales etc. Exploratory data analysis (EDA) have ben done to explore the data using excel functions and features to draw meaningful conclusions. Through this project, valuable insights can be drawn that can help the store optimize its operations and drive growth.
