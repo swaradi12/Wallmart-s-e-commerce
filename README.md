@@ -10,3 +10,7 @@ PRESENTATION OF ANALYSIS:
 (d)	World map showing the top 5 countries by Sales		
 (e)	Top Sub-Category and their contribution to the overall Sales
 (f)	Charts showing the Market Share
+
+TOOLS AND TECHNIQUES USED:
+- Excel
+- Exploratory Data Analysis (EDA)
