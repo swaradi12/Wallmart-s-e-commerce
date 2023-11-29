@@ -5,10 +5,9 @@ To gain insights into the performance of the store and identify opportunities fo
 
 PRESENTATION OF ANALYSIS:
 (a)	Important KPI's that can be sliced and diced as per the key filters
-
 (b)	Charts showing Segment, Category and Markets Analysis
 (c)	Top 5 and bottom five
-(d)	World map showing the top 5 countries by Sales		
+(d)	World map showing the top 5 countries by Sales
 (e)	Top Sub-Category and their contribution to the overall Sales
 (f)	Charts showing the Market Share
 
